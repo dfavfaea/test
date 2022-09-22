@@ -1,6 +1,6 @@
 {
-    "name": "HX",
-    "description": "Powered By Misaka-blog",
+    "name": "HH",
+    "description": "u",
     "keywords": [],
     "env": {
         "TYPE": {
@@ -8,8 +8,8 @@
             "value": "vless"
         },
         "UUID": {
-            "description": "UUID，可在 https://www.uuidgenerator.net/ 生成",
-            "value": ""
+            "description": "UUID",
+            "value": "c9194fec-154d-49b8-85fa-0d01c7afedfb"
         }
     },
     "website": "https://owo.misaka.rest",
